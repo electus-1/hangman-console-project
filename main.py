@@ -1,5 +1,4 @@
 import random
-from turtle import clear
 from hangman_art import logo, stages
 from hangman_words import word_list
 
